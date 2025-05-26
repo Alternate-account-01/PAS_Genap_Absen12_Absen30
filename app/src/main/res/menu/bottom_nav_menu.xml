@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/nav_laliga"
         android:icon="@drawable/laligaa"
-        android:title="Laliga" />
     <item
         android:id="@+id/nav_teams"
-        android:icon="@drawable/outline_man_24"
-        android:title="player" />
     <item
-        android:id="@+id/nav_Profile"
-        android:icon="@android:drawable/ic_menu_view"
         android:title="Profile" />
 </menu>
